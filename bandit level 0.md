@@ -14,4 +14,4 @@ I needed to connect to the OverTheWire servers using a specific port. Here is th
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 **Evidense**
-![image alt]("G:\My Drive\cloud security\linux lab\bandit level0.jpg")
+![image alt](https://github.com/Darshan-Ga/Linux_lab/blob/8ad1bd6c8d5661443da950882526dd9a13f27e20/bandit%20level0.jpg)
