@@ -7,7 +7,7 @@ While the task is straightforward, it serves as a fundamental exercise in direct
 
 ---
 
-### 💻 Execution & Terminal Flow
+### 💻 Execution & Terminal Flhttps://github.com/Darshan-Ga/Linux_lab/tree/mainow
 Upon logging in, I needed to verify my location in the filesystem and read the target file.
 
 **Step 1: Enumerating the Directory**
