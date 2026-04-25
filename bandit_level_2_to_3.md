@@ -30,3 +30,25 @@ Once logged in, I used the `ls` command to list the contents of the current home
 ```bash
 bandit2@bandit:~$ ls
 spaces in this filename
+```
+
+### Step 3: The Challenge with Spaces
+If we simply try to read the file using cat spaces in this filename, the command will fail. This is because the bash shell uses spaces to separate arguments. It will attempt to look for four separate files: spaces, in, this, and filename.
+
+```bash
+bandit2@bandit:~$ cat spaces in this filename
+cat: spaces: No such file or directory
+cat: in: No such file or directory
+cat: this: No such file or directory
+cat: filename: No such file or directory
+```
+
+### Step 4: Extracting the Password
+To tell the terminal that the entire string is a single filename.
+
+**Method :** Using Quotation Marks
+Enclosing the filename in quotation marks tells the shell to treat everything inside them as a single argument.
+
+```bash
+bandit2@bandit:~$ cat "spaces in this filename"
+```
