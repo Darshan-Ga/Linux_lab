@@ -19,7 +19,7 @@ bandit1@bandit:~$ cat -
 # The terminal hangs, waiting for user input via stdin. (Aborted with Ctrl+C)
 ```
 ### Evidence
-![image alt](https://github.com/Darshan-Ga/Linux_lab/blob/cf83b1c3150592dd02a7f9f443b5aac39aaedfe3/bandit%20level%201%E2%86%922.jpg)
+![image alt](https://github.com/Darshan-Ga/Linux_lab/blob/789a42e6a9ea99d5f20e401a78736900ee3e2504/bandit%20level%201%E2%86%922.jpg)
 
 
 ![image alt](https://github.com/Darshan-Ga/Linux_lab/blob/cf83b1c3150592dd02a7f9f443b5aac39aaedfe3/bandit%20level%201%E2%86%922(2).jpg)
