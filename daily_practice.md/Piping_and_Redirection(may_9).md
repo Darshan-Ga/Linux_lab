@@ -20,4 +20,4 @@ history | grep "cd" > my_history.txt
 
 Building daily muscle memory for log parsing, data extraction, and system investigation techniques used in Cloud Security.
 
-![image alt]()
+![image alt](https://github.com/Darshan-Ga/Linux_lab/blob/280997bf128f3a481d2fe319dd03565da9aaf822/daily_practice.md/%7B91B000AC-FDFF-46A8-8D46-4A7987F7E765%7D.png)
